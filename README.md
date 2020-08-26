@@ -1,4 +1,4 @@
-# Analysis of Taiwanese international student's conversation toward pandemic by using PTT data.
+# Analysis of PTT(online forum in Taiwan)Comments Related With Pandemic
 What are Taiwanese student talking about pandemic? 
 
 
@@ -11,6 +11,7 @@ PTT is one of the largest online forums in Taiwan. The website contains various 
 I web crawled the topic’s data from 2020/01/01~2020/08/17, which contains 1077 posts. The data contains the following columns:
 headline, date, author, push, boos, neutral, content, comment, web link
 ![image](https://user-images.githubusercontent.com/32606310/91281419-a49e6a00-e7ba-11ea-94c9-c075f6c379de.png)
+![image](https://user-images.githubusercontent.com/32606310/91282353-d106b600-e7bb-11ea-9523-f197dc349b72.png)
 
 ## Packages
 NLP:jieba<br/>
