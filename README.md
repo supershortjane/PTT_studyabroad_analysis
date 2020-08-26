@@ -9,7 +9,7 @@ Studying abroad is a long journey filled with uncertainties. The outbreak of Cov
 ## Dataset
 PTT is one of the largest online forums in Taiwan. The website contains various topics where people can share their ideas and thoughts . One of interesting topics for me is “studyabroad”, where most Taiwanese international students would look up information or share their experience.
 I web crawled the topic’s data from 2020/01/01~2020/08/17, which contains 1077 posts. The data contains the following columns:
-headline, date, author, push, boos, neutral, content, comment, web link
+**headline, date, author, push, boos, neutral, content, comment, web link**
 ![image](https://user-images.githubusercontent.com/32606310/91281419-a49e6a00-e7ba-11ea-94c9-c075f6c379de.png)
 ![image](https://user-images.githubusercontent.com/32606310/91282353-d106b600-e7bb-11ea-9523-f197dc349b72.png)
 
