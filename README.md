@@ -37,7 +37,7 @@ Snapshot of the DataFrame
 
 Graph1 shows the trend volume from 2020/01/01 to 2020/08/17. The volume is defined as the number of comments of a post. In this analysis, a post which has a higher number than the average volume is considered as a popular post.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b2984a4f-36bd-49c9-8f7b-86ba0eba91ed/.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b2984a4f-36bd-49c9-8f7b-86ba0eba91ed/.png)
+![總留言數](https://user-images.githubusercontent.com/32606310/91273824-61d79480-e7b0-11ea-994d-ee7cea2135dd.png)
 
 Graph2 shows the pandemic trend from 2020/01/01 to 2020/08/17, which defined the number of comments that mentioned words related with coronavirus. 
 
