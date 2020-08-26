@@ -13,8 +13,8 @@ headline, date, author, push, boos, neutral, content, comment, web link
 ![image](https://user-images.githubusercontent.com/32606310/91281419-a49e6a00-e7ba-11ea-94c9-c075f6c379de.png)
 
 ## Packages
-NLP:jieba
-Visualization: matplotlib, wordcloud, plotly
+NLP:jieba<br/>
+Visualization: matplotlib, wordcloud, plotly<br/>
 
 
 ## Visualization
@@ -34,3 +34,5 @@ Visualization: matplotlib, wordcloud, plotly
 **"After an global outbreak" wordcloud** <br/>
 ![Wordcloud_After](https://user-images.githubusercontent.com/32606310/91279532-3193f400-e7b8-11ea-8a52-b9724dda3aa0.png)<br/>
 
+## More details of my analysis
+Go check my finding on [Medium](https://medium.com/@supershortjanechaseadream/analysis-of-taiwanese-international-students-conversation-toward-pandemic-by-using-ptt-data-d6d9d8589ad9)
